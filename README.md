@@ -184,8 +184,8 @@ This project improves household security, transparency, and accountability by pr
 
 ## Contributors
 
-- Shree Shanth
-- Project Team Members
+- @shreeshanthgoud
+- @poralapoornachandra
 
 ---
 
